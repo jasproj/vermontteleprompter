@@ -6,64 +6,9 @@
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://vermontteleprompter.com/_layouts/default.html</loc>
-    <lastmod>2026-11-02</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://vermontteleprompter.com/about.html</loc>
     <lastmod>2026-11-02</lastmod>
     <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://vermontteleprompter.com/blog.html</loc>
-    <lastmod>2026-11-02</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://vermontteleprompter.com/blog/corporate-town-halls-teleprompter.html</loc>
-    <lastmod>2026-11-02</lastmod>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://vermontteleprompter.com/blog/first-time-teleprompter-tips.html</loc>
-    <lastmod>2026-11-02</lastmod>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://vermontteleprompter.com/blog/how-to-read-teleprompter.html</loc>
-    <lastmod>2026-11-02</lastmod>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://vermontteleprompter.com/blog/how-to-write-for-a-teleprompter.html</loc>
-    <lastmod>2026-11-02</lastmod>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://vermontteleprompter.com/blog/index.html</loc>
-    <lastmod>2026-11-02</lastmod>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://vermontteleprompter.com/blog/teleprompter-cost-vermont.html</loc>
-    <lastmod>2026-11-02</lastmod>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://vermontteleprompter.com/blog/teleprompter-vs-cue-cards.html</loc>
-    <lastmod>2026-11-02</lastmod>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://vermontteleprompter.com/blog/working-with-teleprompter-operator.html</loc>
-    <lastmod>2026-11-02</lastmod>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://vermontteleprompter.com/blog/youtube-streaming-teleprompter-vermont.html</loc>
-    <lastmod>2026-11-02</lastmod>
-    <priority>0.6</priority>
   </url>
   <url>
     <loc>https://vermontteleprompter.com/careers.html</loc>
@@ -72,11 +17,6 @@
   </url>
   <url>
     <loc>https://vermontteleprompter.com/privacy.html</loc>
-    <lastmod>2026-11-02</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://vermontteleprompter.com/prompterq.html</loc>
     <lastmod>2026-11-02</lastmod>
     <priority>0.8</priority>
   </url>
@@ -95,24 +35,4 @@
     <lastmod>2026-11-02</lastmod>
     <priority>0.8</priority>
   </url>
-  <url>
-    <loc>https://vermontteleprompter.com/vs-buying-teleprompter.html</loc>
-    <lastmod>2026-11-02</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://vermontteleprompter.com/vs-diy-ipad-teleprompter.html</loc>
-    <lastmod>2026-11-02</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://vermontteleprompter.com/vs-equipment-only-rental.html</loc>
-    <lastmod>2026-11-02</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://vermontteleprompter.com/vs-production-house-rental.html</loc>
-    <lastmod>2026-11-02</lastmod>
-    <priority>0.8</priority>
-  </url>
-</urlset>
+  </urlset>
